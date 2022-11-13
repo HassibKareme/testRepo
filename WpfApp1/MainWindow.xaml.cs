@@ -24,6 +24,7 @@ namespace WpfApp1
         {
             InitializeComponent();
             //more testing
+            //More testing
         }
     }
 }
